@@ -44,6 +44,6 @@ Tests and the OpenAPI specification provide further insights.
 
 __What will be necessary to get it production-ready?__
 
-- integrate your data in the tag.service handler
+- integrate your data in the tags.service handler
 - build API
 - deploy with TLS
