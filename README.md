@@ -1,6 +1,6 @@
-# Connector API - tags
+# Connector API - NestJS
 
-This API implements the Connector API tag-route for TrendMiner integration.
+This (coding challenge) API implements the Connector API tag-route for TrendMiner integration.
 
 ## Prepare
 
